@@ -39,13 +39,11 @@ This notebook demonstrates the steps to build a recommendation system that:
 
 To set up and run the project locally, follow the steps below:
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/Manishkatel/Ecommerce_Product_Recommendation_Using_Reviews.git
    cd Ecommerce_Product_Recommendation_Using_Reviews
    ```
-   **OR**run it either on jupyter notebook or google_collab
-
-   <p align="center"><b></b>Feel free to reach out for better model performance suggestions<b></b><p>
+**Feel free to reach out for better model performance suggestions**
 
    
